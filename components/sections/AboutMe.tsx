@@ -26,7 +26,7 @@ const AboutMe: React.FC = () => {
           </CardHeader>
           <CardContent className="text-sm sm:text-base text-foreground space-y-4">
             <p>
-              👋 Hello there! I&apos;m Krishnakumar, a Data Analyst with a knack for decoding complicated data and spinning it into a meaningful narrative. My fascination for math was nurtured from childhood, all thanks to my math-genius mother.
+              👋 Hello there! I&apos;m Karthiga, a Data Analyst with a knack for decoding complicated data and spinning it into a meaningful narrative. My fascination for math was nurtured from childhood, all thanks to my math-genius mother.
             </p>
             <p>
               <FaCode className="inline-block mr-2" /> 

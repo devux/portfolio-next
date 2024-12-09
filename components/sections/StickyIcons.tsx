@@ -75,10 +75,10 @@ const StickyIcons: React.FC = () => {
           animate={contentControls}
         >
           <a
-            href="mailto:krishnavalliappan02@gmail.com"
+            href="mailto:karthigamm1995@gmail.com"
             className="text-foreground hover:text-primary transition-colors duration-200 pb-2"
           >
-            krishnavalliappan02@gmail.com
+            karthigamm1995@gmail.com
           </a>
         </motion.div>
         <motion.div 

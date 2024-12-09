@@ -8,7 +8,7 @@ const HeroTitle = () => (
     transition={{ duration: 0.8 }}
     className="text-center mb-8"
   >
-    <h1 className="text-4xl md:text-6xl font-bold mb-4 text-primary">Krishnakumar</h1>
+    <h1 className="text-4xl md:text-6xl font-bold mb-4 text-primary">Karthiga Babu</h1>
     <h2 className="text-xl md:text-2xl text-foreground">Software Developer</h2>
   </motion.div>
 );
